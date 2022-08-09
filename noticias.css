@@ -14,7 +14,7 @@ header{
     color: rgb(255, 255, 255);
     padding: 20px;
     border-bottom: solid;
-    font-size: 19px;
+    font-size: 15px;
 
 }
 header a{
@@ -23,11 +23,11 @@ header a{
     color: rgb(255, 255, 255);
     border: solid;
     text-decoration: none;
-    font-size: 19px;
+    font-size: 15px;
 }
 .empurra{
     /*ajustar cabeçalho*/
-    margin-left: 400px;
+    margin-left: 260px;
 }
 a{ 
     /*links cabeçalho*/
@@ -57,7 +57,7 @@ a{
     border-radius: 10px;
     padding: 5px;
     border-color:  rgb(255, 255, 255);
-    font-size: 19px;
+    font-size: 15px;
 }
 .esportes{
     margin: auto;
@@ -86,7 +86,7 @@ fieldset{
     border: solid;
     border-color:  rgb(255, 255, 255);
     border-radius: 10px;
-    font-size:18px;
+    font-size:15px;
 }
 input{
     padding: 5px;
@@ -105,7 +105,7 @@ footer{
     background-color:rgb(17, 150, 105);
     padding: 20px;
     color:rgb(255, 255, 255);
-    font-size: 18px;
+    font-size: 15px;
 
 }
     label{
